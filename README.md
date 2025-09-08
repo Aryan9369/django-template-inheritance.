@@ -1,5 +1,3 @@
-# django-template-inheritance.
-
 # Django Template Inheritance Project
 
 A simple **Django project** demonstrating how to use **template inheritance**.
